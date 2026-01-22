@@ -8,7 +8,7 @@
   [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
   [![Conda](https://img.shields.io/badge/Conda-Environment-green.svg)](environment.yml)
 
-  **A sandbox for experimenting with CrewAI multi-agent AI systems that research topics and generate comprehensive reports**
+  **🤖 A sandbox for experimenting with CrewAI multi-agent AI systems that research topics and generate comprehensive reports 🔬**
 
   [CrewAI Docs](https://docs.crewai.com/) · [Agents Guide](https://docs.crewai.com/concepts/agents) · [Tasks Guide](https://docs.crewai.com/concepts/tasks)
 </div>
