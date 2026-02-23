@@ -8,3 +8,9 @@ version = "0.1.0"
 description = "**🤖 A sandbox for experimenting with CrewAI multi-agent AI systems that research topics and generate comprehensive reports 🔬**"
 requires-python = ">=3.10"
 dependencies = []
+
+[tool.ruff]
+line-length = 100
+
+[tool.ruff.lint]
+select = ["E", "F", "I"]
