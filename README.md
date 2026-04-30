@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="logo.png" alt="sandbox-crewai" width="512"/>
+  <img src="https://raw.githubusercontent.com/tsilva/sandbox-crewai/main/logo.png" alt="sandbox-crewai" width="512"/>
 
   # sandbox-crewai
 
