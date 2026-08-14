@@ -7,7 +7,7 @@ authors = [
 ]
 requires-python = ">=3.10,<3.13"
 dependencies = [
-    "crewai[tools]>=0.95.0,<1.0.0",
+    "crewai[litellm,tools]>=1.15.12,<1.16.0",
 ]
 
 [project.scripts]
@@ -25,7 +25,11 @@ build-backend = "hatchling.build"
 
 [tool.uv]
 exclude-newer = "7 days"
+override-dependencies = [
+  "chromadb==0.6.3",
+]
 constraint-dependencies = [
+  "litellm>=1.84.0",
   "mistralai!=2.4.6",
   "guardrails-ai!=0.10.1",
 ]
