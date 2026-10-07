@@ -1,20 +1,20 @@
-> [!NOTE]
-> This repository exists only for experimentation and is currently archived.
-
-<div align="center">
+<p align="center">
   <img src="https://raw.githubusercontent.com/tsilva/sandbox-crewai/main/logo.png" alt="sandbox-crewai" width="512"/>
+  <br />
+  <!-- repo-tagline:start -->
+  <strong>🤖 Experiment with CrewAI agents that research and write reports 🔬</strong>
+  <!-- repo-tagline:end -->
+</p>
 
-  # sandbox-crewai
-
-  [![Python](https://img.shields.io/badge/Python-3.11-blue.svg)](https://www.python.org/)
+[![Python](https://img.shields.io/badge/Python-3.11-blue.svg)](https://www.python.org/)
   [![CrewAI](https://img.shields.io/badge/CrewAI-Framework-orange.svg)](https://docs.crewai.com/)
   [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
   [![Conda](https://img.shields.io/badge/Conda-Environment-green.svg)](environment.yml)
 
-  **🤖 A sandbox for experimenting with CrewAI multi-agent AI systems that research topics and generate comprehensive reports 🔬**
-
   [CrewAI Docs](https://docs.crewai.com/) · [Agents Guide](https://docs.crewai.com/concepts/agents) · [Tasks Guide](https://docs.crewai.com/concepts/tasks)
-</div>
+
+> [!NOTE]
+> This repository exists only for experimentation and is currently archived.
 
 ## Overview
 
